@@ -1,0 +1,14 @@
+C:\Users\andre\OneDrive\Documentos\Faculdade\Cript\Aula02\Base64\bin\Debug\net8.0\Base64.exe
+C:\Users\andre\OneDrive\Documentos\Faculdade\Cript\Aula02\Base64\bin\Debug\net8.0\Base64.deps.json
+C:\Users\andre\OneDrive\Documentos\Faculdade\Cript\Aula02\Base64\bin\Debug\net8.0\Base64.runtimeconfig.json
+C:\Users\andre\OneDrive\Documentos\Faculdade\Cript\Aula02\Base64\bin\Debug\net8.0\Base64.dll
+C:\Users\andre\OneDrive\Documentos\Faculdade\Cript\Aula02\Base64\bin\Debug\net8.0\Base64.pdb
+C:\Users\andre\OneDrive\Documentos\Faculdade\Cript\Aula02\Base64\obj\Debug\net8.0\Base64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Documentos\Faculdade\Cript\Aula02\Base64\obj\Debug\net8.0\Base64.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Documentos\Faculdade\Cript\Aula02\Base64\obj\Debug\net8.0\Base64.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Documentos\Faculdade\Cript\Aula02\Base64\obj\Debug\net8.0\Base64.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\Faculdade\Cript\Aula02\Base64\obj\Debug\net8.0\Base64.dll
+C:\Users\andre\OneDrive\Documentos\Faculdade\Cript\Aula02\Base64\obj\Debug\net8.0\refint\Base64.dll
+C:\Users\andre\OneDrive\Documentos\Faculdade\Cript\Aula02\Base64\obj\Debug\net8.0\Base64.pdb
+C:\Users\andre\OneDrive\Documentos\Faculdade\Cript\Aula02\Base64\obj\Debug\net8.0\Base64.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Documentos\Faculdade\Cript\Aula02\Base64\obj\Debug\net8.0\ref\Base64.dll
